@@ -4,13 +4,13 @@
 
 Understand how application state is rendered into a user interface.
 
----
+
 
 ## What I'm Building
 
 A simple application that demonstrates basic rendering.
 
----
+
 
 ## Concepts Covered
 
@@ -19,13 +19,13 @@ A simple application that demonstrates basic rendering.
 - Reconciliation
 - Rendering Pipeline
 
----
+
 
 ## Patterns Used
 
 - Client-Side Rendering (CSR)
 
----
+
 
 ## Tools Used
 
@@ -33,7 +33,7 @@ A simple application that demonstrates basic rendering.
 - Vite
 - React DOM
 
----
+
 
 ## Success Criteria
 
